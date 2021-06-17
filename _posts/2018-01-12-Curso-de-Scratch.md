@@ -3,7 +3,7 @@ title:  "Curso de Scratch"
 subtitle: "Scratch"
 author: "Daniel Togachinky"
 avatar: "img/author/didactica-aumentada.png"
-image: "img/11.png"
+image: "img/10.png"
 date:   2021-06-17 01:12:12
 ---
 ![](https://3.bp.blogspot.com/-2xcpj0IuFFM/W-hZHbDUDOI/AAAAAAAARr4/VWvsv0Ek8BgY0HqvANoA8s1GhvqwHXQvQCLcBGAs/s200/scratch-ni%25C3%25B1os-1024x934.png)
